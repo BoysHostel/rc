@@ -1,2 +1,2 @@
 # rc
-Release candidate testin
+Release candidate test
